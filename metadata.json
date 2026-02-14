@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Market",
+  "description": "A high-performance, AI-enhanced e-commerce experience featuring 30+ premium products across multiple categories. Includes an intelligent shopping assistant powered by Gemini for personalized recommendations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
